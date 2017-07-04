@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jan  2 11:58:52 2017
+Created on Mon Jan  2  2017
 
-@author: AW036048
+@author: AW
 
 Description:
 Script to find string in .pdf files, before using be awere what folder you select if you don't want wait all day ;)
